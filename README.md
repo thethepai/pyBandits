@@ -1,5 +1,6 @@
 # pyBandits
 
+这是原本仓库的fork，我使用了poetry作为包管理，可以一键安装所需环境
 
 ## Description
 An implementation for Online Machine Learning Course
